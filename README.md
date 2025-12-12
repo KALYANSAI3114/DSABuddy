@@ -107,7 +107,7 @@ dsabuddy/
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [KALYANSAI-3114](https://github.com/KALYANSAI3114)
+- GitHub: [KALYANSAI3114](https://github.com/KALYANSAI3114)
 
 ## 🙏 Acknowledgments
 
